@@ -1,2 +1,3 @@
 
-Hello world from 2.txt .Make a change
+Hello world from 2.txt .Make a change for second commit
+
